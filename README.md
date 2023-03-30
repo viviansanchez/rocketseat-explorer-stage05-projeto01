@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido em aula do Stage 05 do curso Explorer da Rocketseat para aprendizado de eventos e manipulação de DOM.
+Este projeto foi desenvolvido em aula do Stage 05: Avançando com JavaScript, do curso Explorer da Rocketseat para aprendizado de eventos e manipulação de DOM.
 
 Você pode visualizar o projeto através [DESSE LINK](https://viviansanchez.github.io/rocketseat-explorer-stage05-projeto01/)!
 
