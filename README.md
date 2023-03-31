@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário para criação e compartilhamento de evento pessoal" src="./.github/preview.png" width="100%">
+  <img alt="Imagem do projeto" src="./.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
